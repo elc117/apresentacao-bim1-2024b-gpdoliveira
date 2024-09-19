@@ -59,3 +59,6 @@
 - Ao lidar com listas em Haskell devemos considerar uma característica da linguagem: **sua avaliação preguiçosa**
 - Isto quer dizer que o Haskell irá **postergar** a execução de qualquer cálculo até que ele seja necessário!
 
+# Listas em outras linguagens de programação
+- **C**: uso de structs, listas heterogêneas, listas simplesmente encadeadas, listas duplamente encadeadas, filas, pilhas
+- **Python**: listas, dicionárias, funções básicas como append, remove, insert
