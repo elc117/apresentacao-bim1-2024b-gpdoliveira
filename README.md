@@ -65,6 +65,9 @@
 
 # Referências
 https://learnyouahaskell.com/starting-out#an-intro-to-lists
+
 https://folivetti.github.io/courses/Haskell/Tipos
+
 https://www.facom.ufu.br/~madriana/PF/hs4.pdf
+
 https://docs.python.org/pt-br/3/tutorial/datastructures.html
