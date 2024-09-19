@@ -62,3 +62,9 @@
 # Listas em outras linguagens de programação
 - **C**: uso de structs, listas heterogêneas, listas simplesmente encadeadas, listas duplamente encadeadas, filas, pilhas
 - **Python**: listas, dicionárias, funções básicas como append, remove, insert
+
+# Referências
+https://learnyouahaskell.com/starting-out#an-intro-to-lists
+https://folivetti.github.io/courses/Haskell/Tipos
+https://www.facom.ufu.br/~madriana/PF/hs4.pdf
+https://docs.python.org/pt-br/3/tutorial/datastructures.html
